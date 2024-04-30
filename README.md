@@ -1,6 +1,6 @@
-Currently live at https://joshuanorris.github.io/InfiniteScroll/.
-
 # InfiniteScroll
+
+Currently live at https://joshuanorris.github.io/InfiniteScroll/.
 
 Used Unsplash api to load pictures and created "infinite scroll" user experience... meaning the page will auto-populate once user has reached close to the end of the loaded images. Initially it will only load 5 pictures to help speed of website in case user is accessing with poor internet.
 
